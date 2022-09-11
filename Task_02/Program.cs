@@ -13,7 +13,7 @@ int c = Convert.ToInt32(Console.ReadLine());
 int max = Convert.ToInt32(a);
 
 if(b > a)
-{
+{ 
      max = b;
 } 
 if(c > max)
